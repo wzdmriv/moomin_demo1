@@ -1,7 +1,9 @@
 const medias = {
   audio: false,
   video: {
-    facingMode: "user"
+    facingMode: {
+        exact: "environment" // リアカメラにアクセス
+      }
   }
 };
 const video = document.getElementById("video");
