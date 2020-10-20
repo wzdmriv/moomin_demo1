@@ -7,7 +7,9 @@ body {
   display: block;
   width: 100%;
 }
-
+.contentbox {
+    position: relative;
+}
 #photo {
     width: 500px;
     height: 300px;
