@@ -9,6 +9,7 @@ body {
 }
 .contentbox {
     position: relative;
+    width: 100%;
 }
 #photo {
     width: 500px;
