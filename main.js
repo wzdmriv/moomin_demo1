@@ -14,5 +14,5 @@
             console.log("hello")
     }
     
-    setInterval(changeImage,interval);
+    $(window).load(setInterval(changeImage,interval));
 }());
