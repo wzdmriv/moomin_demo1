@@ -22,7 +22,6 @@ body {
 .contents li {
     margin: 15px;
     float: left;
-    visibility: hidden;
 }
 
 #img {
