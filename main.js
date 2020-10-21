@@ -1,3 +1,18 @@
+// 画像用配列
+var images = [
+    'photo1.jpg',
+    'photo2.jpg',
+    'photo3.jpg'
+];
+
+window.onload = function(){
+    // 画像プリロード
+    for (i = 0; i < images.length; i++){
+        var img = document.createElement('img');
+        img.src = images[i];
+    }
+}
+
 (function(){
     // 設定
     
