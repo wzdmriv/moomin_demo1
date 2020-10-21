@@ -22,7 +22,6 @@ body {
 ul.fadein li {
     margin: 15px;
     float: left;
-    visibility: hidden;
 }
 
 #img {
