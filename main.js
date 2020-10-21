@@ -14,5 +14,5 @@
             console.log("hello")
     }
     
-    $(window).load(setInterval(changeImage,interval));
+    $(document).ready(setInterval(changeImage,interval));
 }());
