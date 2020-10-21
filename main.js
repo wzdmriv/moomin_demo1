@@ -15,4 +15,4 @@
     
     
     setInterval(changeImage,interval);
-    }());
+}());
