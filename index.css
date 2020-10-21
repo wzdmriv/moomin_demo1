@@ -25,3 +25,9 @@ body {
     top: 30px;
     z-index: 1;
 }
+
+#li {
+    margin: 15px;
+    float: left;
+    visibility: hidden;
+}
