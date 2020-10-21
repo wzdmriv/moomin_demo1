@@ -19,7 +19,7 @@ body {
     z-index: -100;
 }
 
-.fadein li {
+ul.fadein li {
     margin: 15px;
     float: left;
     visibility: hidden;
