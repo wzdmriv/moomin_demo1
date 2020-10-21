@@ -25,7 +25,7 @@ body {
     height: 500px;
     margin-left: auto;
     margin-bottom: 0px;
-    position:relative;
+    position: fixed;
 }
 
 .fade-img-box img {
