@@ -19,7 +19,7 @@ body {
     z-index: -100;
 }
 
-#li {
+.contents li {
     margin: 15px;
     float: left;
     visibility: hidden;
