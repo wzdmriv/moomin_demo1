@@ -22,12 +22,12 @@ body {
 
 
 .fade-img-box {
-    width: 420px;
-    height: 700px;
+    width: 600px;
+    height: 1000px;
     left:50%;
-    margin-left: -210px;
+    margin-left: -300px;
     top: 50%;
-    margin-top: -350px;
+    margin-top: -500px;
     position: fixed;
 }
 
