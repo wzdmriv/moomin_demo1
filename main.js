@@ -8,13 +8,7 @@ var images = [
     'prt6.png'
 ];
 
-window.onload = function(){
-    // 画像プリロード
-    for (i = 0; i < images.length; i++){
-        var img = document.createElement('img');
-        img.src = images[i];
-    }
-}
+
 
 (function(){
     // 設定
