@@ -21,7 +21,6 @@ window.onload = function(){
     
     var interval =3000; // 切り替わりの間隔（ミリ秒）
     var fade_speed = 500;// フェード処理の早さ（ミリ秒）
-    $(".fade-img-box img").fadeOut(fade_speed).removeClass("active");
     $(".fade-img-box img:first").addClass("active").show();
     var changeImage = function(){
             var $active = $(".fade-img-box img.active");
