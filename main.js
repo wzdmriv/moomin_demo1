@@ -1,8 +1,11 @@
 // 画像用配列
 var images = [
-    'photo1.jpg',
-    'photo2.jpg',
-    'photo3.jpg'
+    'prt1.png',
+    'prt2.png',
+    'prt3.png',
+    'prt4.png',
+    'prt5.png',
+    'prt6.png'
 ];
 
 window.onload = function(){
